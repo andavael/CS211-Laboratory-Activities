@@ -46,7 +46,7 @@ This activity introduces fundamental programming concepts in Java through hands-
 
 ## <a id="lab2"> 🖥️ Laboratory Activity 2 </a>
 #### 🌟 *Overview*  
-This activity introduces essential programming concepts in Java through practical exercises. It focuses on flow control, arrays, and functions to help you develop a deeper understanding of how to manipulate data and perform operations on arrays. This activity covers **Java Flow Control, Arrays, and Functions**, laying the groundwork for more advanced topics in programming.
+This activity explores core programming concepts in Java through engaging exercises. It focuses on flow control, arrays, and functions to help you develop a deeper understanding of how to manipulate data and perform operations on arrays. This activity covers **Java Flow Control, Arrays, and Functions**, laying the groundwork for more advanced topics in programming.
 
 #### *📂 Files Included*  
 
@@ -67,6 +67,87 @@ This activity introduces essential programming concepts in Java through practica
    > Understand the conventions for defining and using arrays in Java, including indexing, iteration, and performing operations like calculating the mean.
 
 </br>
+
 ---
+
 ## <a id="lab3"> 🖥️ Laboratory Activity 3 </a>
+#### 🌟 *Overview*  
+This activity delves into advanced object-oriented programming concepts in Java. It focuses on **Encapsulation**, **Inheritance**, and **Polymorphism**, providing a deeper understanding of how to design flexible and reusable code. This activity covers key OOP principles, which are essential for writing maintainable and scalable Java applications.
+
+#### *📂 Files Included*  
+
+| **File**           | **Description**                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------|
+| **Artist.java**     | Contains the base class `Artist` with common properties and methods for all artist types.            |
+| **ArtistDemo.java** | A driver class used to demonstrate and test the functionality of the artist and its subclasses.        |
+| **Dancer.java**     | A subclass of `Artist`, representing a dancer, with specific properties and behaviors related to dancing. |
+| **Painter.java**    | A subclass of `Artist`, representing a painter, with specific properties and behaviors related to painting. |
+| **Singer.java**     | A subclass of `Artist`, representing a singer, with specific properties and behaviors related to singing. |
+| **Writer.java**     | A subclass of `Artist`, representing a writer, with specific properties and behaviors related to writing. |
+
+#### *🎯 Objectives*  
+
+1. **Understand and Implement Encapsulation**  
+   > Learn how to bundle data (variables) and methods that operate on the data into a single unit, ensuring proper access control and data hiding.
+
+2. **Master Inheritance**  
+   > Grasp the concept of inheritance in Java, enabling the creation of new classes based on existing ones, thereby promoting code reuse and reducing redundancy.
+
+3. **Apply Polymorphism**  
+   > Explore how polymorphism allows one interface to be used for different data types, and how method overriding and method overloading are implemented to achieve flexible behavior in Java programs.
+
+4. **Design Flexible and Reusable Code**  
+   > Develop the skills to design programs that are easier to maintain and extend by applying the principles of Encapsulation, Inheritance, and Polymorphism in real-world scenarios.
+
+</br>
+
+---
+
 ## <a id="lab4"> 🖥️ Laboratory Activity 4 </a>
+#### 🌟 *Overview*  
+This activity explores advanced object-oriented programming concepts in Java. It focuses on Abstraction, which involves hiding implementation details while exposing only the necessary features of an object. The activity emphasizes the design of abstract classes and interfaces, promoting cleaner, more maintainable code. 
+
+#### *📂 Files Included*
+
+| **File**                     | **Description**                                                                                      |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| **Main.java**                 | The main program that runs the application, managing the execution of shape-related operations.       |
+| **Shape.java**                | The abstract class that defines the general properties and methods common to all shapes.             |
+| **ShapeCollection.java**      | A class that manages a collection of different shapes and provides methods for their manipulation.    |
+| **Rectangle.java**            | A class that extends the `Shape` class, representing a rectangle and implementing the abstract methods.|
+| **Square.java**               | A subclass of `Rectangle`, representing a square, with specific properties and methods.              |
+| **Triangle.java**             | A subclass of `Shape`, representing a triangle and implementing the abstract methods.               |
+
+#### *🎯 Objectives*  
+1. **Understand Abstraction in Java**  
+   > Explore the concept of abstraction, learning how to define abstract classes and methods to hide implementation details while exposing essential functionalities.
+
+2. **Implement Inheritance**  
+   > Practice creating subclasses that inherit properties and behaviors from a superclass, enhancing code reusability and organization.
+
+3. **Polymorphism**  
+   > Understand and apply polymorphism by allowing objects of different classes to be treated as instances of a common superclass, enabling dynamic method dispatch.
+
+4. **Manage Collections of Objects**  
+   > Learn how to store and manage multiple objects of different classes in a collection, and use methods to manipulate these objects efficiently.
+
+</br>
+
+---
+
+## 👩‍💻 **Resource Developer**
+
+<p align="center">
+   <img src="ReadMe/developer.png" alt="Developer" style="max-width: 100%; height: auto;">
+</p>
+
+---
+I am pleased to share my contributions to the **CS 211- Object-Oriented Programming Laboratory activities** repository! Feel free to explore, clone, and get inspired by the work here. If you have any questions or feedback, don't hesitate to reach out!
+
+📜 **Name**: Anthonina Dhapniella C. Vael  
+💻 **GitHub**: [github.com/andavael](https://github.com/andavael)  
+📧 **Email**: [23-04485@g.batstate-u.edu.ph](mailto:23-04485@g.batstate-u.edu.ph)  
+📂 **Extended Repository**: [VaelAnthoninaCS2101_OOPactivities](https://github.com/andavael/VaelAnthoninaCS2101_OOPactivities)
+
+Thank you for your time, and happy coding!  
+
