@@ -45,5 +45,28 @@ This activity introduces fundamental programming concepts in Java through hands-
 ---
 
 ## <a id="lab2"> 🖥️ Laboratory Activity 2 </a>
+#### 🌟 *Overview*  
+This activity introduces essential programming concepts in Java through practical exercises. It focuses on flow control, arrays, and functions to help you develop a deeper understanding of how to manipulate data and perform operations on arrays. This activity covers **Java Flow Control, Arrays, and Functions**, laying the groundwork for more advanced topics in programming.
+
+#### *📂 Files Included*  
+
+| **File**                    | **Description**                                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| **GetArrayMean.java**        | A Java program that calculates and displays the mean of an array of integers entered by the user. |
+| **MultiplicationTable.java** | A Java program that generates and displays a multiplication table of a specified size, based on user input. |
+
+#### *🎯 Objectives*  
+
+1. **Proper Implementation of Functions**  
+   > Learn how to implement functions to perform specific operations and display outputs effectively.
+
+2. **Use of Loops**  
+   > Gain proficiency in using loops for iterating over data structures like arrays to perform repetitive tasks, such as calculating sums or generating patterns.
+
+3. **Array Conventions**  
+   > Understand the conventions for defining and using arrays in Java, including indexing, iteration, and performing operations like calculating the mean.
+
+</br>
+---
 ## <a id="lab3"> 🖥️ Laboratory Activity 3 </a>
 ## <a id="lab4"> 🖥️ Laboratory Activity 4 </a>
