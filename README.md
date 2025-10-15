@@ -2,7 +2,7 @@
    <img src="ReadMe/header.png" alt="Header style="max-width: 100%; height: auto;">
 </p>
 
-# 💻✨ CS 211 - Laboratory Activities ✨💻
+# 💻 CS 211 - Laboratory Activities 
 
 Welcome to the **CS 211 - Laboratory Activities repository**! This collection showcases hands-on outputs from the Object-Oriented Programming (OOP) course, featuring practical implementations of fundamental **OOP concepts and principles** in Java. Whether you're seeking inspiration, reference material, or a deeper understanding of OOP, this repository is a valuable resource for students and developers alike.
 
@@ -19,7 +19,7 @@ Dive in and explore the basics of object-oriented programming through real-world
 
 ## <a id="lab1"> 🖥️ Laboratory Activity 1 </a>
 
-#### 🌟 *Overview*  
+####  *Overview*  
 This activity introduces fundamental programming concepts in Java through hands-on exercises. It focuses on user input handling, formatting outputs, and understanding key Java concepts such as type casting and escape sequences. The tasks involve comparing characters and collecting song details from users while ensuring efficient memory usage. This activity covers **Introduction to Java**, which serves as the foundation for the exercises and concepts explored.
 
 #### *📂 Files Included*  
@@ -45,7 +45,7 @@ This activity introduces fundamental programming concepts in Java through hands-
 ---
 
 ## <a id="lab2"> 🖥️ Laboratory Activity 2 </a>
-#### 🌟 *Overview*  
+####  *Overview*  
 This activity explores core programming concepts in Java through engaging exercises. It focuses on flow control, arrays, and functions to help you develop a deeper understanding of how to manipulate data and perform operations on arrays. This activity covers **Java Flow Control, Arrays, and Functions**, laying the groundwork for more advanced topics in programming.
 
 #### *📂 Files Included*  
@@ -71,7 +71,7 @@ This activity explores core programming concepts in Java through engaging exerci
 ---
 
 ## <a id="lab3"> 🖥️ Laboratory Activity 3 </a>
-#### 🌟 *Overview*  
+####  *Overview*  
 This activity delves into advanced object-oriented programming concepts in Java. It focuses on **Encapsulation**, **Inheritance**, and **Polymorphism**, providing a deeper understanding of how to design flexible and reusable code. This activity covers key OOP principles, which are essential for writing maintainable and scalable Java applications.
 
 #### *📂 Files Included*  
@@ -104,7 +104,7 @@ This activity delves into advanced object-oriented programming concepts in Java.
 ---
 
 ## <a id="lab4"> 🖥️ Laboratory Activity 4 </a>
-#### 🌟 *Overview*  
+####  *Overview*  
 This activity explores advanced object-oriented programming concepts in Java. It focuses on Abstraction, which involves hiding implementation details while exposing only the necessary features of an object. The activity emphasizes the design of abstract classes and interfaces, promoting cleaner, more maintainable code. 
 
 #### *📂 Files Included*
@@ -135,7 +135,7 @@ This activity explores advanced object-oriented programming concepts in Java. It
 
 ---
 
-## 👩‍💻 **Resource Developer**
+##  **Resource Developer**
 
 <p align="center">
    <img src="ReadMe/developer.png" alt="Developer" style="max-width: 100%; height: auto;">
